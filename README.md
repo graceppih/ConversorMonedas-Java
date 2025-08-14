@@ -1,7 +1,7 @@
 <h1 align="center">💱 Conversor de Monedas en Java</h1>
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Demo Conversor de Monedas" width="700">
+  <img src="assets/democm.gif" alt="Demo Conversor de Monedas" width="700">
 </p>
 
 <p align="center">
@@ -38,13 +38,11 @@ Ideal como proyecto educativo para aprender:
 ## 🖼 Capturas de pantalla
 
 **📍 Menú principal**
-┌───────────────────────────────┐
-│ 💱 CONVERSOR DE MONEDAS │
-├───────────────────────────────┤
-│ 1. Convertir moneda │
-│ 2. Ver historial │
-│ 3. Salir │
-└───────────────────────────────┘
+
+<p align="center">
+  <img src="assets/democm.gif" alt="Demo Conversor de Monedas" width="700">
+</p>
+
 
 
 **📍 Ejemplo de conversión**
