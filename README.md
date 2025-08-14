@@ -40,7 +40,7 @@ Ideal como proyecto educativo para aprender:
 ## 🖼 Video demostrativo / Menú principal
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Demo Conversor de Monedas" width="700">
+  <img src="assets/democm.gif" alt="Demo Conversor de Monedas" width="700">
 </p>
 
 - El GIF muestra cómo funciona el menú principal y cómo se realiza una conversión.  
