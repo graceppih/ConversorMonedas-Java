@@ -36,7 +36,7 @@ Ideal como proyecto educativo para aprender:
 
 ---
 
-## 🖼 Capturas de pantalla
+## 🖼 Video demostrativo
 
 **📍 Menú principal**
 
