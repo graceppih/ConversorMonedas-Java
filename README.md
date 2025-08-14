@@ -46,20 +46,16 @@ Ideal como proyecto educativo para aprender:
 │ 3. Salir │
 └───────────────────────────────┘
 
-markdown
-Copiar
-Editar
 
 **📍 Ejemplo de conversión**
+
 Ingrese moneda de origen (ej: USD): USD
+
 Ingrese moneda destino (ej: CLP): CLP
+
 Ingrese cantidad a convertir: 100
 
 💵 100 USD equivalen a 95,230 CLP
-
-yaml
-Copiar
-Editar
 
 ---
 
@@ -75,7 +71,7 @@ Editar
 ## 🚀 Instalación y uso
 
 1️⃣ **Clonar repositorio**
-```bash
+
 git clone https://github.com/TU_USUARIO/ConversorMonedas-Java.git
 cd ConversorMonedas-Java
 2️⃣ Agregar la librería Gson
@@ -88,9 +84,6 @@ En IntelliJ, ejecuta ConversorMonedasMenu.java
 📡 API utilizada
 Este proyecto utiliza:
 
-bash
-Copiar
-Editar
 https://v6.exchangerate-api.com/v6/TU_API_KEY/latest/USD
 Puedes obtener una clave gratuita en https://www.exchangerate-api.com/.
 
