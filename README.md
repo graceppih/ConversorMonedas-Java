@@ -4,6 +4,7 @@
   <img src="assets/democm.gif" alt="Demo Conversor de Monedas" width="700">
 </p>
 
+
 <p align="center">
   <b>Un conversor de monedas interactivo hecho en Java usando la API de ExchangeRate.</b><br>
   Menú en consola, colores, validación de datos y cálculos en tiempo real.
@@ -70,7 +71,7 @@ Ingrese cantidad a convertir: 100
 
 1️⃣ **Clonar repositorio**
 
-git clone https://github.com/TU_USUARIO/ConversorMonedas-Java.git
+git clone https://github.com/graceppih/ConversorMonedas-Java.git
 cd ConversorMonedas-Java
 2️⃣ Agregar la librería Gson
 Coloca gson-2.10.1.jar en la carpeta lib y añádelo al classpath en IntelliJ:
