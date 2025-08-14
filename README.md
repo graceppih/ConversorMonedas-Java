@@ -34,16 +34,19 @@ Ideal como proyecto educativo para aprender:
 ✅ Colores para mejor legibilidad en consola  
 ✅ Menú claro e intuitivo
 
+
 ---
 
-## 🖼 Video demostrativo
-
-**📍 Menú principal**
+## 🖼 Video demostrativo / Menú principal
 
 <p align="center">
-  <img src="assets/democm.gif" alt="Demo Conversor de Monedas" width="700">
+  <img src="assets/demo.gif" alt="Demo Conversor de Monedas" width="700">
 </p>
 
+- El GIF muestra cómo funciona el menú principal y cómo se realiza una conversión.  
+- Incluye validación de monedas, ingreso de cantidad y cálculo automático de la conversión.
+
+---
 
 
 **📍 Ejemplo de conversión**
