@@ -73,6 +73,7 @@ Ingrese cantidad a convertir: 100
 
 git clone https://github.com/graceppih/ConversorMonedas-Java.git
 cd ConversorMonedas-Java
+
 2️⃣ Agregar la librería Gson
 Coloca gson-2.10.1.jar en la carpeta lib y añádelo al classpath en IntelliJ:
 File > Project Structure > Modules > Dependencies > + JARs or Directories
